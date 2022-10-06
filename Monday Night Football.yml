@@ -1,5 +1,11 @@
+gameName: Monday Night Football
+isReady: 1
+manufacturerName: Data East
+releaseMonth: 9
+releaseYear: 1989
+ipdbLink: https://www.ipdb.org/machine.cgi?id=1616
 gameMatrices:
-    Lamp:
+    lamp:
         columns:
             '1':
                 connectorID: CN7
@@ -49,18 +55,18 @@ gameMatrices:
                 icNumber: Q64
                 icPin: '-'
                 wireColour: Yellow-Grey
-        matrixItems:
+        matrixElements:
             1:
-                columnIdentifier: '1'
-                itemName: 10 Yard Bottom
+                column: '1'
+                row: '1'
+                name: 10 Yard Bottom
                 normallyClosedFlag: 0
-                rowIdentifier: '1'
                 usedFlag: 1
             2:
-                columnIdentifier: '1'
-                itemName: 2x
+                column: '1'
+                row: '2'
+                name: 2x
                 normallyClosedFlag: 0
-                rowIdentifier: '2'
                 usedFlag: 1
             3:
                 columnIdentifier: '1'
@@ -483,7 +489,7 @@ gameMatrices:
                 icNumber: Q79
                 icPin: '-'
                 wireColour: Red-Grey
-    Switch:
+    switch:
         columns:
             '1':
                 connectorID: CN8
@@ -533,12 +539,12 @@ gameMatrices:
                 icNumber: Q48
                 icPin: '-'
                 wireColour: Green-Grey
-        matrixItems:
+        matrixElements:
             1:
-                columnIdentifier: '1'
-                itemName: PLUMB TILT
+                column: '1'
+                row: '1'
+                name: PLUMB TILT
                 normallyClosedFlag: 0
-                rowIdentifier: '1'
                 usedFlag: 1
             2:
                 columnIdentifier: '1'
@@ -967,8 +973,3 @@ gameMatrices:
                 icNumber: '-'
                 icPin: '-'
                 wireColour: White-Grey
-gameName: Monday Night Football
-isReady: 1
-manufacturerName: Data East
-releaseMonth: 9
-releaseYear: 1989
