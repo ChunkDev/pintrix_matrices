@@ -12,8 +12,8 @@ isReady: 1
 manufacturerName: Data East
 releaseYear: 1989
 releaseMonth: 9
-ipdbLink: ''  # Link to the Internet Pinball Database website
-opdbId: ''    # Identifier for the Open Pinball Database - see https://opdb.org/about
+ipdbLink: 'https://www.ipdb.org/machine.cgi?id=1616'  # Link to the Internet Pinball Database website
+opdbId: 'G5zZ7-Mp474'    # Identifier for the Open Pinball Database - see https://opdb.org/about
 gameMatrices:
     lamp: # Lamp matrix defintion
         columns:
