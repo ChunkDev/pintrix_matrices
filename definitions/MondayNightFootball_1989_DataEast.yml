@@ -1,0 +1,976 @@
+gameName: Monday Night Football
+isReady: 1
+manufacturerName: Data East
+releaseYear: 1989
+releaseMonth: 9
+ipdbLink: 'https://www.ipdb.org/machine.cgi?id=1616'
+opdbId: 'G5zZ7-Mp474'
+gameMatrices:
+    lamp:
+        columns:
+            '1':
+                wireColour: Yellow-Brown
+                connectorID: CN7
+                connectorPin: 1
+                icNumber: Q71
+                icPin: '-'
+            '2':
+                wireColour: Yellow-Red
+                connectorID: CN7
+                connectorPin: 2
+                icNumber: Q70
+                icPin: '-'
+            '3':
+                wireColour: Yellow-Orange
+                connectorID: CN7
+                connectorPin: 3
+                icNumber: Q69
+                icPin: '-'
+            '4':
+                wireColour: Yellow-Black
+                connectorID: CN7
+                connectorPin: 4
+                icNumber: Q68
+                icPin: '-'
+            '5':
+                wireColour: Yellow-Green
+                connectorID: CN7
+                connectorPin: 6
+                icNumber: Q67
+                icPin: '-'
+            '6':
+                wireColour: Yellow-Blue
+                connectorID: CN7
+                connectorPin: 7
+                icNumber: Q66
+                icPin: '-'
+            '7':
+                wireColour: Yellow-Violet
+                connectorID: CN7
+                connectorPin: 8
+                icNumber: Q65
+                icPin: '-'
+            '8':
+                wireColour: Yellow-Grey
+                connectorID: CN7
+                connectorPin: 9
+                icNumber: Q64
+                icPin: '-'
+        rows:
+            '1':
+                wireColour: Red-Brown
+                connectorID: CN6
+                connectorPin: 1
+                icNumber: Q72
+                icPin: '-'
+            '2':
+                wireColour: Red-Black
+                connectorID: CN6
+                connectorPin: 2
+                icNumber: Q73
+                icPin: '-'
+            '3':
+                wireColour: Red-Orange
+                connectorID: CN6
+                connectorPin: 3
+                icNumber: Q74
+                icPin: '-'
+            '4':
+                wireColour: Red-Yellow
+                connectorID: CN6
+                connectorPin: 5
+                icNumber: Q75
+                icPin: '-'
+            '5':
+                wireColour: Red-Green
+                connectorID: CN6
+                connectorPin: 6
+                icNumber: Q76
+                icPin: '-'
+            '6':
+                wireColour: Red-Blue
+                connectorID: CN6
+                connectorPin: 7
+                icNumber: Q77
+                icPin: '-'
+            '7':
+                wireColour: Red-Violet
+                connectorID: CN6
+                connectorPin: 8
+                icNumber: Q78
+                icPin: '-'
+            '8':
+                wireColour: Red-Grey
+                connectorID: CN6
+                connectorPin: 9
+                icNumber: Q79
+                icPin: '-'
+        matrixElements:
+            1:
+                column: '1'
+                row: '1'
+                name: 10 Yard Bottom
+                usedFlag: 1
+                normallyClosedFlag: 0
+            2:
+                column: '1'
+                row: '2'
+                name: 2x
+                usedFlag: 1
+                normallyClosedFlag: 0
+            3:
+                column: '1'
+                row: '3'
+                name: 3x
+                usedFlag: 1
+                normallyClosedFlag: 0
+            4:
+                column: '1'
+                row: '4'
+                name: 4x
+                usedFlag: 1
+                normallyClosedFlag: 0
+            5:
+                column: '1'
+                row: '5'
+                name: Right Return
+                usedFlag: 1
+                normallyClosedFlag: 0
+            6:
+                column: '1'
+                row: '6'
+                name: Right Extra Ball
+                usedFlag: 1
+                normallyClosedFlag: 0
+            7:
+                column: '1'
+                row: '7'
+                name: Left Extra Ball
+                usedFlag: 1
+                normallyClosedFlag: 0
+            8:
+                column: '1'
+                row: '8'
+                name: Left Return
+                usedFlag: 1
+                normallyClosedFlag: 0
+            9:
+                column: '2'
+                row: '1'
+                name: Right Goal
+                usedFlag: 1
+                normallyClosedFlag: 0
+            10:
+                column: '2'
+                row: '2'
+                name: 20 Yard Bottom
+                usedFlag: 1
+                normallyClosedFlag: 0
+            11:
+                column: '2'
+                row: '3'
+                name: Shoot Again
+                usedFlag: 1
+                normallyClosedFlag: 0
+            12:
+                column: '2'
+                row: '4'
+                name: Left Goal
+                usedFlag: 1
+                normallyClosedFlag: 0
+            13:
+                column: '2'
+                row: '5'
+                name: Right Bank 100k
+                usedFlag: 1
+                normallyClosedFlag: 0
+            14:
+                column: '2'
+                row: '6'
+                name: Right Bank 75k
+                usedFlag: 1
+                normallyClosedFlag: 0
+            15:
+                column: '2'
+                row: '7'
+                name: Right Bank 50k
+                usedFlag: 1
+                normallyClosedFlag: 0
+            16:
+                column: '2'
+                row: '8'
+                name: Extra Ball Shield
+                usedFlag: 1
+                normallyClosedFlag: 0
+            17:
+                column: '3'
+                row: '1'
+                name: 5x
+                usedFlag: 1
+                normallyClosedFlag: 0
+            18:
+                column: '3'
+                row: '2'
+                name: Bonus Hold
+                usedFlag: 1
+                normallyClosedFlag: 0
+            19:
+                column: '3'
+                row: '3'
+                name: 30 Yard Bottom
+                usedFlag: 1
+                normallyClosedFlag: 0
+            20:
+                column: '3'
+                row: '4'
+                name: Left Bank 100k
+                usedFlag: 1
+                normallyClosedFlag: 0
+            21:
+                column: '3'
+                row: '5'
+                name: Left Bank 75k
+                usedFlag: 1
+                normallyClosedFlag: 0
+            22:
+                column: '3'
+                row: '6'
+                name: Left Bank 50k
+                usedFlag: 1
+                normallyClosedFlag: 0
+            23:
+                column: '3'
+                row: '7'
+                name: Bonus Shield
+                usedFlag: 1
+                normallyClosedFlag: 0
+            24:
+                column: '3'
+                row: '8'
+                name: Goal Targets
+                usedFlag: 1
+                normallyClosedFlag: 0
+            25:
+                column: '4'
+                row: '1'
+                name: A Lane
+                usedFlag: 1
+                normallyClosedFlag: 0
+            26:
+                column: '4'
+                row: '2'
+                name: B Eject
+                usedFlag: 1
+                normallyClosedFlag: 0
+            27:
+                column: '4'
+                row: '3'
+                name: C Lane
+                usedFlag: 1
+                normallyClosedFlag: 0
+            28:
+                column: '4'
+                row: '4'
+                name: 40 Yard Bottom
+                usedFlag: 1
+                normallyClosedFlag: 0
+            29:
+                column: '4'
+                row: '5'
+                name: Top Goal
+                usedFlag: 1
+                normallyClosedFlag: 0
+            30:
+                column: '4'
+                row: '6'
+                name: Left Ball Lock
+                usedFlag: 1
+                normallyClosedFlag: 0
+            31:
+                column: '4'
+                row: '7'
+                name: U Target
+                usedFlag: 1
+                normallyClosedFlag: 0
+            32:
+                column: '4'
+                row: '8'
+                name: P Target
+                usedFlag: 1
+                normallyClosedFlag: 0
+            33:
+                column: '5'
+                row: '1'
+                name: 10 Yard Lamp
+                usedFlag: 1
+                normallyClosedFlag: 0
+            34:
+                column: '5'
+                row: '2'
+                name: 20 Yard Lamp
+                usedFlag: 1
+                normallyClosedFlag: 0
+            35:
+                column: '5'
+                row: '3'
+                name: 30 Yard Lamp
+                usedFlag: 1
+                normallyClosedFlag: 0
+            36:
+                column: '5'
+                row: '4'
+                name: 40 Yard Lamp
+                usedFlag: 1
+                normallyClosedFlag: 0
+            37:
+                column: '5'
+                row: '5'
+                name: 50 Yards
+                usedFlag: 1
+                normallyClosedFlag: 0
+            38:
+                column: '5'
+                row: '6'
+                name: Right Arrow
+                usedFlag: 1
+                normallyClosedFlag: 0
+            39:
+                column: '5'
+                row: '7'
+                name: Left Arrow
+                usedFlag: 1
+                normallyClosedFlag: 0
+            40:
+                column: '5'
+                row: '8'
+                name: 10 Yard Top
+                usedFlag: 1
+                normallyClosedFlag: 0
+            41:
+                column: '6'
+                row: '1'
+                name: Million Jackpot
+                usedFlag: 1
+                normallyClosedFlag: 0
+            42:
+                column: '6'
+                row: '2'
+                name: Jackpot 1
+                usedFlag: 1
+                normallyClosedFlag: 0
+            43:
+                column: '6'
+                row: '3'
+                name: Jackpot 2
+                usedFlag: 1
+                normallyClosedFlag: 0
+            44:
+                column: '6'
+                row: '4'
+                name: Jackpot 3
+                usedFlag: 1
+                normallyClosedFlag: 0
+            45:
+                column: '6'
+                row: '5'
+                name: Center Extra Ball
+                usedFlag: 1
+                normallyClosedFlag: 0
+            46:
+                column: '6'
+                row: '6'
+                name: 40 Yard Top
+                usedFlag: 1
+                normallyClosedFlag: 0
+            47:
+                column: '6'
+                row: '7'
+                name: Right Goal
+                usedFlag: 1
+                normallyClosedFlag: 0
+            48:
+                column: '6'
+                row: '8'
+                name: 2x Scores
+                usedFlag: 1
+                normallyClosedFlag: 0
+            49:
+                column: '7'
+                row: '1'
+                name: Back Panel Sacked
+                usedFlag: 1
+                normallyClosedFlag: 0
+            50:
+                column: '7'
+                row: '2'
+                name: Back Panel 10 Yard
+                usedFlag: 1
+                normallyClosedFlag: 0
+            51:
+                column: '7'
+                row: '3'
+                name: Back Panel 20 Yard
+                usedFlag: 1
+                normallyClosedFlag: 0
+            52:
+                column: '7'
+                row: '4'
+                name: Back Panel 30 Yard
+                usedFlag: 1
+                normallyClosedFlag: 0
+            53:
+                column: '7'
+                row: '5'
+                name: Back Panel 40 Yard
+                usedFlag: 1
+                normallyClosedFlag: 0
+            54:
+                column: '7'
+                row: '6'
+                name: Back Panel 50 Yard
+                usedFlag: 1
+                normallyClosedFlag: 0
+            55:
+                column: '7'
+                row: '7'
+                name: 30 Yard Top
+                usedFlag: 1
+                normallyClosedFlag: 0
+            56:
+                column: '7'
+                row: '8'
+                name: Right Ball Lock
+                usedFlag: 1
+                normallyClosedFlag: 0
+            57:
+                column: '8'
+                row: '1'
+                name: Top Special
+                usedFlag: 1
+                normallyClosedFlag: 0
+            58:
+                column: '8'
+                row: '2'
+                name: Top Million
+                usedFlag: 1
+                normallyClosedFlag: 0
+            59:
+                column: '8'
+                row: '3'
+                name: Right Release
+                usedFlag: 1
+                normallyClosedFlag: 0
+            60:
+                column: '8'
+                row: '4'
+                name: Jackpot 4
+                usedFlag: 1
+                normallyClosedFlag: 0
+            61:
+                column: '8'
+                row: '5'
+                name: Jackpot 5
+                usedFlag: 1
+                normallyClosedFlag: 0
+            62:
+                column: '8'
+                row: '6'
+                name: Jackpot 6
+                usedFlag: 1
+                normallyClosedFlag: 0
+            63:
+                column: '8'
+                row: '7'
+                name: 10 Yard Top
+                usedFlag: 1
+                normallyClosedFlag: 0
+            64:
+                column: '8'
+                row: '8'
+                name: 10 Yard Top
+                usedFlag: 1
+                normallyClosedFlag: 0
+    switch:
+        columns:
+            '1':
+                wireColour: Green-Brown
+                connectorID: CN8
+                connectorPin: 1
+                icNumber: Q55
+                icPin: '-'
+            '2':
+                wireColour: Green-Red
+                connectorID: CN8
+                connectorPin: 2
+                icNumber: Q54
+                icPin: '-'
+            '3':
+                wireColour: Green-Orange
+                connectorID: CN8
+                connectorPin: 3
+                icNumber: Q53
+                icPin: '-'
+            '4':
+                wireColour: Green-Yellow
+                connectorID: CN8
+                connectorPin: 4
+                icNumber: Q52
+                icPin: '-'
+            '5':
+                wireColour: Green-Black
+                connectorID: CN8
+                connectorPin: 5
+                icNumber: Q51
+                icPin: '-'
+            '6':
+                wireColour: Green-Blue
+                connectorID: CN8
+                connectorPin: 7
+                icNumber: Q50
+                icPin: '-'
+            '7':
+                wireColour: Green-Violet
+                connectorID: CN8
+                connectorPin: 8
+                icNumber: Q49
+                icPin: '-'
+            '8':
+                wireColour: Green-Grey
+                connectorID: CN8
+                connectorPin: 9
+                icNumber: Q48
+                icPin: '-'
+        rows:
+            '1':
+                wireColour: White-Brown
+                connectorID: CN10
+                connectorPin: 9
+                icNumber: '-'
+                icPin: '-'
+            '2':
+                wireColour: White-Red
+                connectorID: CN10
+                connectorPin: 8
+                icNumber: '-'
+                icPin: '-'
+            '3':
+                wireColour: White-Orange
+                connectorID: CN10
+                connectorPin: 7
+                icNumber: '-'
+                icPin: '-'
+            '4':
+                wireColour: White-Yellow
+                connectorID: CN10
+                connectorPin: 6
+                icNumber: '-'
+                icPin: '-'
+            '5':
+                wireColour: White-Green
+                connectorID: CN10
+                connectorPin: 5
+                icNumber: '-'
+                icPin: '-'
+            '6':
+                wireColour: White-Blue
+                connectorID: CN10
+                connectorPin: 3
+                icNumber: '-'
+                icPin: '-'
+            '7':
+                wireColour: White-Violet
+                connectorID: CN10
+                connectorPin: 2
+                icNumber: '-'
+                icPin: '-'
+            '8':
+                wireColour: White-Grey
+                connectorID: CN10
+                connectorPin: 1
+                icNumber: '-'
+                icPin: '-'
+        matrixElements:
+            1:
+                column: '1'
+                row: '1'
+                name: PLUMB TILT
+                usedFlag: 1
+                normallyClosedFlag: 0
+            2:
+                column: '1'
+                row: '2'
+                name: Not used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            3:
+                column: '1'
+                row: '3'
+                name: CREDIT BUTTON
+                usedFlag: 1
+                normallyClosedFlag: 0
+            4:
+                column: '1'
+                row: '4'
+                name: RIGHT COIN
+                usedFlag: 1
+                normallyClosedFlag: 0
+            5:
+                column: '1'
+                row: '5'
+                name: CENTER COIN
+                usedFlag: 1
+                normallyClosedFlag: 0
+            6:
+                column: '1'
+                row: '6'
+                name: LEFT COIN
+                usedFlag: 1
+                normallyClosedFlag: 0
+            7:
+                column: '1'
+                row: '7'
+                name: SLAM TILT
+                usedFlag: 1
+                normallyClosedFlag: 0
+            8:
+                column: '1'
+                row: '8'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            9:
+                column: '2'
+                row: '1'
+                name: Not used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            10:
+                column: '2'
+                row: '2'
+                name: Outhole
+                usedFlag: 1
+                normallyClosedFlag: 0
+            11:
+                column: '2'
+                row: '3'
+                name: 'TROUGH #1'
+                usedFlag: 1
+                normallyClosedFlag: 0
+            12:
+                column: '2'
+                row: '4'
+                name: 'TROUGH #2'
+                usedFlag: 1
+                normallyClosedFlag: 0
+            13:
+                column: '2'
+                row: '5'
+                name: 'TROUGH #3'
+                usedFlag: 1
+                normallyClosedFlag: 0
+            14:
+                column: '2'
+                row: '6'
+                name: Shooter Lane
+                usedFlag: 1
+                normallyClosedFlag: 0
+            15:
+                column: '2'
+                row: '7'
+                name: Left EOS
+                usedFlag: 1
+                normallyClosedFlag: 0
+            16:
+                column: '2'
+                row: '8'
+                name: Right EOS
+                usedFlag: 1
+                normallyClosedFlag: 0
+            17:
+                column: '3'
+                row: '1'
+                name: LEFT OUTLANE
+                usedFlag: 1
+                normallyClosedFlag: 0
+            18:
+                column: '3'
+                row: '2'
+                name: LEFT RETURN
+                usedFlag: 1
+                normallyClosedFlag: 0
+            19:
+                column: '3'
+                row: '3'
+                name: RIGHT OUTLANE
+                usedFlag: 1
+                normallyClosedFlag: 0
+            20:
+                column: '3'
+                row: '4'
+                name: RIGHT RETURN
+                usedFlag: 1
+                normallyClosedFlag: 0
+            21:
+                column: '3'
+                row: '5'
+                name: LEFT SLINGSHOT
+                usedFlag: 1
+                normallyClosedFlag: 0
+            22:
+                column: '3'
+                row: '6'
+                name: RIGHT SLINGSHOT
+                usedFlag: 1
+                normallyClosedFlag: 0
+            23:
+                column: '3'
+                row: '7'
+                name: RAMP UP
+                usedFlag: 1
+                normallyClosedFlag: 0
+            24:
+                column: '3'
+                row: '8'
+                name: RAMP DOWN
+                usedFlag: 1
+                normallyClosedFlag: 0
+            25:
+                column: '4'
+                row: '1'
+                name: A LANE
+                usedFlag: 1
+                normallyClosedFlag: 0
+            26:
+                column: '4'
+                row: '2'
+                name: B EJECT
+                usedFlag: 1
+                normallyClosedFlag: 0
+            27:
+                column: '4'
+                row: '3'
+                name: C LANE
+                usedFlag: 1
+                normallyClosedFlag: 0
+            28:
+                column: '4'
+                row: '4'
+                name: Not used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            29:
+                column: '4'
+                row: '5'
+                name: Kick-off 10 Yards
+                usedFlag: 1
+                normallyClosedFlag: 0
+            30:
+                column: '4'
+                row: '6'
+                name: Kick-off 20 Yards
+                usedFlag: 1
+                normallyClosedFlag: 0
+            31:
+                column: '4'
+                row: '7'
+                name: Kick-off 30 Yards
+                usedFlag: 1
+                normallyClosedFlag: 0
+            32:
+                column: '4'
+                row: '8'
+                name: Kick-off 40 Yards
+                usedFlag: 1
+                normallyClosedFlag: 0
+            33:
+                column: '5'
+                row: '1'
+                name: Left Bank 1
+                usedFlag: 1
+                normallyClosedFlag: 0
+            34:
+                column: '5'
+                row: '2'
+                name: Left Bank 2
+                usedFlag: 1
+                normallyClosedFlag: 0
+            35:
+                column: '5'
+                row: '3'
+                name: Left Bank 3
+                usedFlag: 1
+                normallyClosedFlag: 0
+            36:
+                column: '5'
+                row: '4'
+                name: Left Spinner
+                usedFlag: 1
+                normallyClosedFlag: 0
+            37:
+                column: '5'
+                row: '5'
+                name: Left VUK
+                usedFlag: 1
+                normallyClosedFlag: 0
+            38:
+                column: '5'
+                row: '6'
+                name: Right Spinner
+                usedFlag: 1
+                normallyClosedFlag: 0
+            39:
+                column: '5'
+                row: '7'
+                name: Right Eject
+                usedFlag: 1
+                normallyClosedFlag: 0
+            40:
+                column: '5'
+                row: '8'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            41:
+                column: '6'
+                row: '1'
+                name: Right Bank 1
+                usedFlag: 1
+                normallyClosedFlag: 0
+            42:
+                column: '6'
+                row: '2'
+                name: Right Bank 2
+                usedFlag: 1
+                normallyClosedFlag: 0
+            43:
+                column: '6'
+                row: '3'
+                name: Right Bank 3
+                usedFlag: 1
+                normallyClosedFlag: 0
+            44:
+                column: '6'
+                row: '4'
+                name: Left Ramp Top
+                usedFlag: 1
+                normallyClosedFlag: 0
+            45:
+                column: '6'
+                row: '5'
+                name: Right Ramp
+                usedFlag: 1
+                normallyClosedFlag: 0
+            46:
+                column: '6'
+                row: '6'
+                name: Left Pop Bumper
+                usedFlag: 1
+                normallyClosedFlag: 0
+            47:
+                column: '6'
+                row: '7'
+                name: Center Pop Bumper
+                usedFlag: 1
+                normallyClosedFlag: 0
+            48:
+                column: '6'
+                row: '8'
+                name: Right Pop Bumper
+                usedFlag: 1
+                normallyClosedFlag: 0
+            49:
+                column: '7'
+                row: '1'
+                name: U Target
+                usedFlag: 1
+                normallyClosedFlag: 0
+            50:
+                column: '7'
+                row: '2'
+                name: P Target
+                usedFlag: 1
+                normallyClosedFlag: 0
+            51:
+                column: '7'
+                row: '3'
+                name: Left Ramp Bottom
+                usedFlag: 1
+                normallyClosedFlag: 0
+            52:
+                column: '7'
+                row: '4'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            53:
+                column: '7'
+                row: '5'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            54:
+                column: '7'
+                row: '6'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            55:
+                column: '7'
+                row: '7'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            56:
+                column: '7'
+                row: '8'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            57:
+                column: '8'
+                row: '1'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            58:
+                column: '8'
+                row: '2'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            59:
+                column: '8'
+                row: '3'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            60:
+                column: '8'
+                row: '4'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            61:
+                column: '8'
+                row: '5'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            62:
+                column: '8'
+                row: '6'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            63:
+                column: '8'
+                row: '7'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
+            64:
+                column: '8'
+                row: '8'
+                name: Not Used
+                usedFlag: 0
+                normallyClosedFlag: 0
