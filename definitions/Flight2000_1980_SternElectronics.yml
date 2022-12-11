@@ -1,0 +1,330 @@
+gameName: Flight 2000
+isReady: 1
+manufacturerName: Stern Electronics
+releaseYear: 1980
+releaseMonth: 8
+ipdbLink: 'https://www.ipdb.org/machine.cgi?id=887'
+opdbId: 'G48kY-MDxRV'
+gameMatrices:
+    switch:
+        columns:
+            '1':
+                wireColour: White-Red
+                connectorID: A4J2
+                connectorPin: 1
+                icNumber: U10
+                icPin: '2'
+            '2':
+                wireColour: Brown-White
+                connectorID: A4J2
+                connectorPin: 2
+                icNumber: U10
+                icPin: '3'
+            '3':
+                wireColour: White-Blue
+                connectorID: A4J2
+                connectorPin: 3
+                icNumber: U10
+                icPin: '4'
+            '4':
+                wireColour: White-Yellow
+                connectorID: A4J2
+                connectorPin: 4
+                icNumber: U10
+                icPin: '5'
+            '5':
+                wireColour: Yellow-Red
+                connectorID: A4J2
+                connectorPin: 5
+                icNumber: U10
+                icPin: '6'
+        rows:
+            '1':
+                wireColour: Brown-Brown
+                connectorID: J2
+                connectorPin: 8
+                icNumber: U10
+                icPin: '10'
+            '2':
+                wireColour: Grey-Grey
+                connectorID: J2
+                connectorPin: 9
+                icNumber: U10
+                icPin: '11'
+            '3':
+                wireColour: White-Orange
+                connectorID: J2
+                connectorPin: 10
+                icNumber: U10
+                icPin: '12'
+            '4':
+                wireColour: White-Blue
+                connectorID: J2
+                connectorPin: 11
+                icNumber: U10
+                icPin: '13'
+            '5':
+                wireColour: White-Green
+                connectorID: J2
+                connectorPin: 12
+                icNumber: U10
+                icPin: '14'
+            '6':
+                wireColour: White-Brown
+                connectorID: J2
+                connectorPin: 13
+                icNumber: U10
+                icPin: '15'
+            '7':
+                wireColour: Brown-Yellow
+                connectorID: J2
+                connectorPin: 14
+                icNumber: U10
+                icPin: '16'
+            '8':
+                wireColour: Orange-Orange
+                connectorID: J2
+                connectorPin: 15
+                icNumber: U10
+                icPin: '17'
+        matrixElements:
+            1:
+                column: '1'
+                row: '1'
+                name: Chute (Left)
+                usedFlag: 1
+                normallyClosedFlag: 0
+            2:
+                column: '1'
+                row: '2'
+                name: Chute (Center)
+                usedFlag: 1
+                normallyClosedFlag: 0
+            3:
+                column: '1'
+                row: '3'
+                name: Chute (Right)
+                usedFlag: 1
+                normallyClosedFlag: 0
+            4:
+                column: '1'
+                row: '4'
+                name: Spin Target (L)
+                usedFlag: 1
+                normallyClosedFlag: 0
+            5:
+                column: '1'
+                row: '5'
+                name: Spin Target (F)
+                usedFlag: 1
+                normallyClosedFlag: 0
+            6:
+                column: '1'
+                row: '6'
+                name: Credit Button
+                usedFlag: 1
+                normallyClosedFlag: 0
+            7:
+                column: '1'
+                row: '7'
+                name: Tilts
+                usedFlag: 1
+                normallyClosedFlag: 0
+            8:
+                column: '1'
+                row: '8'
+                name: Slam & Vib. Tilts
+                usedFlag: 1
+                normallyClosedFlag: 0
+            9:
+                column: '2'
+                row: '1'
+                name: Left Top Slingshot
+                usedFlag: 1
+                normallyClosedFlag: 0
+            10:
+                column: '2'
+                row: '2'
+                name: Right Top Slingshot
+                usedFlag: 1
+                normallyClosedFlag: 0
+            11:
+                column: '2'
+                row: '3'
+                name: Left Bottom Slingshot
+                usedFlag: 1
+                normallyClosedFlag: 0
+            12:
+                column: '2'
+                row: '4'
+                name: Right Bottom Slingshot
+                usedFlag: 1
+                normallyClosedFlag: 0
+            13:
+                column: '2'
+                row: '5'
+                name: Thumper (Top)
+                usedFlag: 1
+                normallyClosedFlag: 0
+            14:
+                column: '2'
+                row: '6'
+                name: Thumper (Bottom)
+                usedFlag: 1
+                normallyClosedFlag: 0
+            15:
+                column: '2'
+                row: '7'
+                name: Left Kickout
+                usedFlag: 1
+                normallyClosedFlag: 0
+            16:
+                column: '2'
+                row: '8'
+                name: Right Kickout
+                usedFlag: 1
+                normallyClosedFlag: 0
+            17:
+                column: '3'
+                row: '1'
+                name: B
+                usedFlag: 1
+                normallyClosedFlag: 0
+            18:
+                column: '3'
+                row: '2'
+                name: L
+                usedFlag: 1
+                normallyClosedFlag: 0
+            19:
+                column: '3'
+                row: '3'
+                name: A
+                usedFlag: 1
+                normallyClosedFlag: 0
+            20:
+                column: '3'
+                row: '4'
+                name: S
+                usedFlag: 1
+                normallyClosedFlag: 0
+            21:
+                column: '3'
+                row: '5'
+                name: T
+                usedFlag: 1
+                normallyClosedFlag: 0
+            22:
+                column: '3'
+                row: '6'
+                name: O
+                usedFlag: 1
+                normallyClosedFlag: 0
+            23:
+                column: '3'
+                row: '7'
+                name: F
+                usedFlag: 1
+                normallyClosedFlag: 0
+            24:
+                column: '3'
+                row: '8'
+                name: F
+                usedFlag: 1
+                normallyClosedFlag: 0
+            25:
+                column: '4'
+                row: '1'
+                name: Top Right Drop
+                usedFlag: 1
+                normallyClosedFlag: 0
+            26:
+                column: '4'
+                row: '2'
+                name: Middle Right Drop
+                usedFlag: 1
+                normallyClosedFlag: 0
+            27:
+                column: '4'
+                row: '3'
+                name: Bottom Right Drop
+                usedFlag: 1
+                normallyClosedFlag: 0
+            28:
+                column: '4'
+                row: '4'
+                name: '#1'
+                usedFlag: 1
+                normallyClosedFlag: 0
+            29:
+                column: '4'
+                row: '5'
+                name: '#2'
+                usedFlag: 1
+                normallyClosedFlag: 0
+            30:
+                column: '4'
+                row: '6'
+                name: '#3'
+                usedFlag: 1
+                normallyClosedFlag: 0
+            31:
+                column: '4'
+                row: '7'
+                name: '#4'
+                usedFlag: 1
+                normallyClosedFlag: 0
+            32:
+                column: '4'
+                row: '8'
+                name: '#5'
+                usedFlag: 1
+                normallyClosedFlag: 0
+            33:
+                column: '5'
+                row: '1'
+                name: Out Hole (Right)
+                usedFlag: 1
+                normallyClosedFlag: 0
+            34:
+                column: '5'
+                row: '2'
+                name: Out Hole (Center)
+                usedFlag: 1
+                normallyClosedFlag: 0
+            35:
+                column: '5'
+                row: '3'
+                name: Out Hole (Left)
+                usedFlag: 1
+                normallyClosedFlag: 0
+            36:
+                column: '5'
+                row: '4'
+                name: Left Out Lane
+                usedFlag: 1
+                normallyClosedFlag: 0
+            37:
+                column: '5'
+                row: '5'
+                name: Right Out Lane
+                usedFlag: 1
+                normallyClosedFlag: 0
+            38:
+                column: '5'
+                row: '6'
+                name: Spot Blast
+                usedFlag: 1
+                normallyClosedFlag: 0
+            39:
+                column: '5'
+                row: '7'
+                name: Ball Launcher
+                usedFlag: 1
+                normallyClosedFlag: 0
+            40:
+                column: '5'
+                row: '8'
+                name: Release Next Rocket
+                usedFlag: 1
+                normallyClosedFlag: 0
